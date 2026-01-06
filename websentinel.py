@@ -23,7 +23,7 @@ def banner():
  ╚══╝╚══╝ ╚══════╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
 {RESET}{CYAN}
 ----------------------------------------------------------------------------------------
-{BOLD} WebSentinel v2.0{RESET}{CYAN} — Advanced Web Application Vulnerability Scanner
+{BOLD} WebSentinel v1.0.0{RESET}{CYAN} — Advanced Web Application Vulnerability Scanner
 {YELLOW} SQL Injection  |  Cross-Site Scripting (XSS)  |  CSRF
 {CYAN}----------------------------------------------------------------------------------------
 {RESET}""")
