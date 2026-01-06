@@ -77,17 +77,12 @@ report.json — Machine-readable report for automation
 
 ## Each finding includes:
 
-Vulnerability type
-
-Affected URL
-
-Severity level
-
-Confidence level
-
-Evidence
-
-Remediation recommendation
+- Vulnerability type
+- Affected URL
+- Severity level
+- Confidence level
+- Evidence
+- Remediation recommendation
 
 ## Severity Levels
 
