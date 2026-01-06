@@ -55,7 +55,7 @@ Install the tool locally as a CLI command:
 
 Basic scan:
 
-websentinel -u https://example.com
+```websentinel -u https://example.com```
 
 
 Scan with JSON report output:
