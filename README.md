@@ -115,7 +115,7 @@ You are free to use, modify, and distribute it with proper attribution.
 
 Developed as a security research and portfolio project.
 
-Future Improvements
+## Future Improvements
 
 Time-based SQL Injection detection
 
