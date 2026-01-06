@@ -127,5 +127,11 @@ CVSS scoring
 
 OWASP Top 10 mapping
 
-Rate-limit and WAF evasion techniques
+Rate-limit and WAF evasion techniques## Requirements
+
+## Requirements
+- Python 3.9+
+- Linux / macOS (tested)
+
+
 
