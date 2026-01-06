@@ -205,3 +205,23 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# ===============================
+# WebSentinel specific
+# ===============================
+
+# Scan reports (generated output)
+report.html
+report.json
+*.html
+*.json
+
+# Runtime logs
+*.log
+
+# Temporary crawl / session data
+.tmp/
+temp/
+sessions/
+
+# Local config overrides
+config.local.py
